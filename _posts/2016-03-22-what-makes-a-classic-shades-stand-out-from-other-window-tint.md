@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'What makes a Classic Shades stand out from other window tinting businesses? Built for performance, all of our work is guaranteed for life. With more than 30 years of window tinting experience and certified in SolarGard, you’ll get a superior product matched by exceptional customer service.'
-datePublished: '2016-03-22T15:17:28.004Z'
-dateModified: '2016-03-22T15:17:25.709Z'
+datePublished: '2016-03-22T15:32:32.840Z'
+dateModified: '2016-03-22T15:32:19.355Z'
 title: Why us?
 author: []
 sourcePath: _posts/2016-03-22-what-makes-a-classic-shades-stand-out-from-other-window-tint.md
