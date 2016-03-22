@@ -1,7 +1,7 @@
 name: Classic Shades
 favicon: null
-layout_spectrum: 0.9420137261040509
-typography_spectrum: 0.335719145135954
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.08554396568797529
-  lightness: 0.39247599616646767
-  saturation: 0.28131623822264373
+    - '#ffffff'
+    - '#0a8300'
+    - '#a9a9a9'
+    - '#000000'
+    - '#054b00'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5
   rhythmicContrast: 0.14593756664544344
 purpose: []
