@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Whether it’s your home, vehicle or office, Classic Shades custom window tinting services provide a high quality and cost-effective product for UV protection and energy efficiency.'
-datePublished: '2016-03-22T15:46:21.624Z'
-dateModified: '2016-03-22T15:43:31.623Z'
+datePublished: '2016-03-22T15:48:23.437Z'
+dateModified: '2016-03-22T15:48:19.137Z'
 title: Save Money and Energy with Classic Shades
 author: []
 sourcePath: _posts/2016-03-22-save-money-and-energy-with-classic-shades.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 Whether it's your home, vehicle or office, Classic Shades custom window tinting services provide a high quality and cost-effective product for UV protection and energy efficiency.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acbcf30f-ddee-491e-8ff6-20d23e0c6edc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d69a8896f1819d9f347af34cd6635fc5c51a3797.jpg)
